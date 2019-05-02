@@ -12524,4 +12524,4 @@ message.member.addRole(message.guild.roles.find("name", "100"));
 });
 
 
-client.login('تــوكــن بــوتــك اهــنا');
+client.login('NTczNTEwMDY0NDU1ODExMDgz.XMr45Q.SvximuujqAhe9cq8zOZlsib2sCQ');
